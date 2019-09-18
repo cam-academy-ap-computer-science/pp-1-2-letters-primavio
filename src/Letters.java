@@ -15,16 +15,16 @@ public class Letters {
 	}
 	
 	public static void friend2() {
-		friend1();
 		System.out.println("");
+		friend1();
 		System.out.println("Now on a different topic, my friends all tell me to get a new job,");
 		System.out.println("But I need to earn money!");
 		System.out.println("I wish someone would give me money, but I just cannot fathom as to who would!");
 	}
 	
 	public static void friend3() {
-		friend1();
 		System.out.println("");
+		friend1();
 		System.out.println("But to be frank, I am enjoying school.");
 		System.out.println("Junior year really did destroy everything in me,");
 		System.out.println("And at this point, I cannot do anything that will be worse.");
