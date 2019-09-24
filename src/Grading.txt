@@ -1,0 +1,21 @@
+Graded 9/23 by Mark Congdon
+
+Total Score:		24/25
+
+Compiles and Runs:	14/15
+Correct Output:		6/6
+Consistent Style:	2/2
+Efficiency:			2/2
+
+Good work!  Your program is very clean and well-organized.
+
+So, I guess your program fulfills a strict legalistic reading
+of the rules of the assignment... but having all of your letters
+be to "friend", and having no closing salutation to your letter,
+so that your first letter could be a subset of all the other
+letters and they could just call it, doesn't really fit the
+intent of the assignment.  On the other hand, it does show that
+you understand the concepts.  I'll take off one point.
+
+For future projects, you will want to start adding comments.
+
